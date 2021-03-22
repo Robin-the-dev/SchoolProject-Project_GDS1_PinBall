@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\sam_d\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\sam_d\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_lab-4-client-spec.600630402.00" t="ExcludeRecursive" />
+    <e p="C:\Users\sam_d\Desktop\Uni\2020\Autumn\GDS\Lab 4\lab-4-client-spec" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="DestroyerBumper.cs" t="Include" />
+          <e p="DestroyerBumperMaker.cs" t="Include" />
+          <e p="DontDestroyOnLoad.cs" t="Include" />
+          <e p="HeartsManager.cs" t="Include" />
+          <e p="Highscores.cs" t="Include" />
+          <e p="Launcher.cs" t="Include" />
+          <e p="Managers" t="Include">
+            <e p="AudioManager.cs" t="Include" />
+          </e>
+          <e p="MultiplierBumper.cs" t="Include" />
+          <e p="MultiplierBumperMaker.cs" t="Include" />
+          <e p="MuteButton.cs" t="Include" />
+          <e p="ReturnButton.cs" t="Include" />
+          <e p="SaveAndLoad.cs" t="Include" />
+          <e p="SceneController.cs" t="Include" />
+          <e p="Scores.cs" t="Include" />
+          <e p="SetResolution.cs" t="Include" />
+          <e p="SimpleBumper.cs" t="Include" />
+          <e p="Testing" t="Include">
+            <e p="AudioTest.cs" t="Include" />
+          </e>
+          <e p="TextHighScores.cs" t="Include" />
+          <e p="TutorialManager.cs" t="Include" />
+          <e p="UIButton.cs" t="Include" />
+          <e p="UISlider.cs" t="Include" />
+          <e p="WheelAnim.cs" t="Include" />
+        </e>
+        <e p="Simon-Temp" t="Include">
+          <e p="FlipperControls.cs" t="Include" />
+          <e p="lives.cs" t="Include" />
+          <e p="OutOfBounds.cs" t="Include" />
+        </e>
+        <e p="TextScores.cs" t="Include" />
+      </e>
+      <e p="lab-4-client-spec.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
